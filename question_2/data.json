@@ -1,0 +1,64 @@
+{
+  "orders": [
+    {
+      "order_id": 1,
+      "kitchen_location": {"x": 10, "y": 20},
+      "customer_location": {"x": 30, "y": 40},
+      "ready_time": 10
+    },
+    {
+      "order_id": 2,
+      "kitchen_location": {"x": 15, "y": 25},
+      "customer_location": {"x": 30, "y": 40},
+      "ready_time": 20
+    },
+    {
+      "order_id": 3,
+      "kitchen_location": {"x": 15, "y": 25},
+      "customer_location": {"x": 10, "y": 20},
+      "ready_time": 15
+    },
+    {
+      "order_id": 4,
+      "kitchen_location": {"x": 50, "y": 60},
+      "customer_location": {"x": 10, "y": 30},
+      "ready_time": 12
+    },
+    {
+      "order_id": 5,
+      "kitchen_location": {"x": 70, "y": 80},
+      "customer_location": {"x": 10, "y": 20},
+      "ready_time": 25
+    },
+    {
+      "order_id": 6,
+      "kitchen_location": {"x": -10, "y": 20},
+      "customer_location": {"x": 30, "y": 40},
+      "ready_time": 8
+    },
+    {
+      "order_id": 7,
+      "kitchen_location": {"x": -20, "y": -30},
+      "customer_location": {"x": 30, "y": 40},
+      "ready_time": 22
+    },
+    {
+      "order_id": 8,
+      "kitchen_location": {"x": 50, "y": 60},
+      "customer_location": {"x": 30, "y": 40},
+      "ready_time": 18
+    },
+    {
+      "order_id": 9,
+      "kitchen_location": {"x": 10, "y": 40},
+      "customer_location": {"x": 50, "y": 40},
+      "ready_time": 30
+    },
+    {
+      "order_id": 10,
+      "kitchen_location": {"x": 50, "y": 50},
+      "customer_location": {"x": 30, "y": 40},
+      "ready_time": 14
+    }
+  ]
+}
